@@ -11,6 +11,7 @@ function compareTriplets(a, b) {
             } else if (a[i] < b[i]) {
                 bob++;
             }
+
         }
     } else {
         return 'array lengths are not equal!';
